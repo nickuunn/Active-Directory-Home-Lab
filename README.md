@@ -44,9 +44,18 @@ Once it finishes installing, click "close" and return to the Server Manager Dash
 <img src="screenshots/9.png" height="80%" width="80%"/>
 <br />
 <br />
-
-
-
+Select the following option and create a name with ".local" or ".test" at the end:  <br/>
+<img src="screenshots/10.png" height="80%" width="80%"/>
+<br />
+<br />
+Create a password and then select "next." Continue clicking next until you can click "install" on the prerequisite check page:  <br/>
+<img src="screenshots/11.png" height="80%" width="80%"/>
+<br />
+<br />
+Once it is finished installing, restart the server as prompted:  <br/>
+<img src="screenshots/12.png" height="80%" width="80%"/>
+<br />
+<br />
 
 
 
