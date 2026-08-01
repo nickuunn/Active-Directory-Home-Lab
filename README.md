@@ -28,11 +28,29 @@ Fill in the boxes with the displayed settings for the sake of simplicity, then c
 <img src="screenshots/5.png" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Start the Windows 2022 Server VM and repeat the previous steps and fill in the following information:  <br/>
+<img src="screenshots/6.png" height="80%" width="80%"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+  
 </p>
 
