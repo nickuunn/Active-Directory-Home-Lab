@@ -9,23 +9,23 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Create the Windows 10 and Windows 2022 Server machines: <br/>
-<img src="screenshots/VirtualMachines.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="screenshots/VirtualMachines.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Right click the network icon and select "Open Network and Internet Settings":  <br/>
+<img src="screenshots/2.png" height="80%" width="80%"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Scroll down and click on "change adapter options" and then right click on the displayed adapter. Then click on "properties": <br/>
+<img src="screenshots/3.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Click on the selected box and then select "properties":  <br/>
+<img src="screenshots/4.png" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Fill in the boxes with the displayed settings for the sake of simplicity, then click "ok":  <br/>
+<img src="screenshots/5.png" height="80%" width="80%"/>
 <br />
 <br />
 Sanitization complete:  <br/>
