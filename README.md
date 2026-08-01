@@ -64,7 +64,7 @@ Click the dropdown on the domain you just created:  <br/>
 <img src="screenshots/14.png" height="80%" width="80%"/>
 <br />
 <br />
-We will be creating a new organizational unit within our domain for our IT team. To do that, right click on your domain, select "new" and select "organizational unit:  <br/>
+We will be creating a new organizational unit within our domain for our IT team. To do that, right click on your domain, select "new" and select "organizational unit":  <br/>
 <img src="screenshots/15.png" height="80%" width="80%"/>
 <br />
 <br />
