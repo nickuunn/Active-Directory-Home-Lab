@@ -40,6 +40,10 @@ Select "Active Directory Domain Services" and then click "add features." Continu
 <img src="screenshots/8.png" height="80%" width="80%"/>
 <br />
 <br />
+Once it finishes installing, click "close" and return to the Server Manager Dashboard. Select the flag with the warning icon at the top right and click on "promote this server to a domain controller":  <br/>
+<img src="screenshots/9.png" height="80%" width="80%"/>
+<br />
+<br />
 
 
 
