@@ -32,12 +32,12 @@ Start the Windows 2022 Server VM and repeat the previous steps and fill in the f
 <img src="screenshots/6.png" height="80%" width="80%"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open up the Server Manager and click "Manage" in the top right corner. Click "add roles" and then "next" and verify that the following is selected. Then click "next" and then "next" again:  <br/>
+<img src="screenshots/7.png" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select "Active Directory Domain Services" and then click "add features." Continue clicking "next" until you reach and select "install":  <br/>
+<img src="screenshots/8.png" height="80%" width="80%"/>
 <br />
 <br />
 
