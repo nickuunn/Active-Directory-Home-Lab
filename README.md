@@ -8,11 +8,11 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Create the Windows 10 and Windows 2022 Server machines: <br/>
+Create the Windows 10 Pro and Windows 2022 Server machines: <br/>
 <img src="screenshots/VirtualMachines.png" height="80%" width="80%"/>
 <br />
 <br />
-Right click the network icon and select "Open Network and Internet Settings":  <br/>
+Starting with the Windows 10 Pro Machine right click the network icon and select "Open Network and Internet Settings":  <br/>
 <img src="screenshots/2.png" height="80%" width="80%"/>
 <br />
 <br />
