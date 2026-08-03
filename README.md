@@ -68,6 +68,26 @@ We will be creating a new organizational unit within our domain for our IT team.
 <img src="screenshots/15.png" height="80%" width="80%"/>
 <br />
 <br />
+Next we will be creating a user for the IT department. Right click in the empty section in the IT folder, go to "new" then select user:  <br/>
+<img src="screenshots/16.png" height="80%" width="80%"/>
+<br />
+<br />
+Choose any name you want:  <br/>
+<img src="screenshots/17.png" height="80%" width="80%"/>
+<br />
+<br />
+Set a password. Also, to simplify things, you can uncheck the first box:  <br/>
+<img src="screenshots/18.png" height="80%" width="80%"/>
+<br />
+<br />
+After that you can select "next" and then "finish" to create the user:  <br/>
+<img src="screenshots/19.png" height="80%" width="80%"/>
+<br />
+<br />
+For practice, repeat the previous steps and create a new department with a new user in it:  <br/>
+<img src="screenshots/20.png" height="80%" width="80%"/>
+<br />
+<br />
 
 
 
