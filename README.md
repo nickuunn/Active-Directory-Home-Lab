@@ -1,8 +1,8 @@
-<h1>Active Directory</h1>
+<h1>Setting up Active Directory</h1>
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This project documents the build of a self-contained Active Directory home lab using VirtualBox, Windows Server 2022, and Windows 10 Pro. It walks through configuring static networking on both machines, installing and promoting a domain controller, creating organizational units and users, and joining a client machine to the domain. The lab serves as a foundation for simulating real-world help desk scenarios and will be expanded with centralized logging (Splunk) and adversary simulation (Kali Linux).
 <br />
 
 <h2>Project walk-through:</h2>
