@@ -96,8 +96,14 @@ Then scroll down and click on "Advanced system settings," then click on the "Com
 <img src="screenshots/22.png" height="80%" width="80%"/>
 <br />
 <br />
-
-
+For the sake of simplicity in this project, we will log in as the administrator. Restart the computer as prompted:  <br/>
+<img src="screenshots/23.png" height="80%" width="80%"/>
+<br />
+<br />
+Now select "Other User" and log in as one of the users we created previously:  <br/>
+<img src="screenshots/24.png" height="80%" width="80%"/>
+<br />
+<br />
 
   
 </p>
