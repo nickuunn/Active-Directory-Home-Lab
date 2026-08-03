@@ -33,4 +33,4 @@
 <p><strong>What I Learned:</strong><br/>
 [1–2 sentences on the takeaway]</p>
 
-<p><a href="../README.md">← Back to main page</a></p>
+<p><a href="https://github.com/nickuunn/Active-Directory-Home-Lab/tree/main/tickets">← Back to tickets</a></p>
