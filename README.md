@@ -92,7 +92,7 @@ We will now be going back to our Windows 10 machine so that we can join it to th
 <img src="screenshots/21.png" height="80%" width="80%"/>
 <br />
 <br />
-Then scroll down and click on "Advanced system settings," then click on the "Computer Name" tab in the top left corner.  :  <br/>
+Then scroll down and click on "Advanced system settings," then click on the "Computer Name" tab in the top left corner. Click on "change" and select the "domain" radio button. Type in you domain's name and click "ok." Click "ok" on the error message that pops up, we will address that:  <br/>
 <img src="screenshots/22.png" height="80%" width="80%"/>
 <br />
 <br />
