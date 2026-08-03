@@ -9,7 +9,8 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Create the Windows 10 Pro and Windows 2022 Server machines: <br/>
-Use this Windows 10 Pro generic install key: VK7JG-NPHTM-C97JM-9MPGT-3V66T when setting up the VM in the VirtualBox Manager, or else this vm won't be able to join the domain we create: <br/>
+<br/>
+Use this Windows 10 Pro generic install key: VK7JG-NPHTM-C97JM-9MPGT-3V66T when setting up the VM in the VirtualBox Manager, or else this VM won't be able to join the domain we create: <br/>
 <img src="screenshots/1.png" height="80%" width="80%"/>
 <br />
 <br />
