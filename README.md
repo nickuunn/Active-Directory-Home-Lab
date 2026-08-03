@@ -88,8 +88,14 @@ For practice, repeat the previous steps and create a new department with a new u
 <img src="screenshots/20.png" height="80%" width="80%"/>
 <br />
 <br />
-
-
+We will now be going back to our Windows 10 machine so that we can join it to the new domain we just created. Type in PC in the lower left search bar and select properties:  <br/>
+<img src="screenshots/21.png" height="80%" width="80%"/>
+<br />
+<br />
+Then scroll down and click on "Advanced system settings," then click on the "Computer Name" tab in the top left corner.  :  <br/>
+<img src="screenshots/22.png" height="80%" width="80%"/>
+<br />
+<br />
 
 
 
