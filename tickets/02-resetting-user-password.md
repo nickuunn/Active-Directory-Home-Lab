@@ -21,18 +21,26 @@ The user typed their password in correctly but the "caps lock" key was on.</p>
 <p><strong>Steps Taken to Resolve:</strong><br/>
 
 <p align="center">
-Confirmed that Billy Joe was locked out: <br/>
-<img src="../screenshots/ticket01ss1.png" height="80%" width="80%"/>
+Confirmed that John Flem was locked out due to forgotten password: <br/>
+<img src="../screenshots/ticket02ss1.png" height="80%" width="80%"/>
 <br />
 <br />
-Navigated to Billy Joe's account and unlocked it: <br/>
-<img src="../screenshots/ticket01ss2.png" height="80%" width="80%" alt="Resolution step"/>
+Navigated to John Flem's account and unlocked it. Along with setting a new password that John Flem will be prompted to change when he signs in: <br/>
+<img src="../screenshots/ticket02ss2.png" height="80%" width="80%" alt="Resolution step"/>
 <br />
 <br />
 Confirmed that Billy Joe was now able to sign in: <br/>
-<img src="../screenshots/ticket01ss3.png" height="80%" width="80%"/>
+<img src="../screenshots/ticket02ss3.png" height="80%" width="80%"/>
 <br />
 <br />
+Confirmed that Billy Joe was now able to sign in: <br/>
+<img src="../screenshots/ticket02ss4.png" height="80%" width="80%"/>
+<br />
+<br />
+
+
+
+
 </p>
 
 <p><strong>What I Learned:</strong><br/>
