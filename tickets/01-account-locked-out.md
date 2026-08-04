@@ -5,7 +5,7 @@ Billy Joe from the HR department states they are unable to log into their comput
 
 <p><strong>Priority:</strong> High</p>
 
-<p><strong>Environment:</strong> Windows 10 Pro client (WIN10-CLIENT01), user account "jsmith" in the IT OU, domain-joined to corp.local</p>
+<p><strong>Environment:</strong> Windows 10 Pro client (WIN10-CLIENT01), user account "bjoe" in the IT OU, domain-joined to mydomain.local</p>
 
 <p><strong>Troubleshooting Steps:</strong></p>
 <ol>
