@@ -29,11 +29,11 @@ Navigated to John Flem's account and unlocked it. Along with setting a new passw
 <img src="../screenshots/ticket02ss2.png" height="80%" width="80%" alt="Resolution step"/>
 <br />
 <br />
-Confirmed that Billy Joe was now able to sign in: <br/>
+Confirmed that John Flem was now able to sign in and prompted to create a new password: <br/>
 <img src="../screenshots/ticket02ss3.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirmed that Billy Joe was now able to sign in: <br/>
+Confirmed that John Flem was able to successfully change his password and sign in: <br/>
 <img src="../screenshots/ticket02ss4.png" height="80%" width="80%"/>
 <br />
 <br />
