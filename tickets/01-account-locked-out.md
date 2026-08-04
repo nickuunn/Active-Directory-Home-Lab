@@ -1,7 +1,7 @@
 <h2>Ticket #01: Account Locked Out</h2>
 
 <p><strong>Reported Issue:</strong><br/>
-User states they are unable to log into their workstation and receives a message indicating their account is locked.</p>
+Billy Joe from the HR department states they are unable to log into their computer after a few failed password attempts. There is a message indicating their account is locked.</p>
 
 <p><strong>Priority:</strong> High</p>
 
