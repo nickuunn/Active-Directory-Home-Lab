@@ -1,22 +1,22 @@
 <h2>Ticket #02: Resetting a User's Password</h2>
 
 <p><strong>Reported Issue:</strong><br/>
-John Flem from the Finance department states that he had lost the sticky note that has his computers password on it. He would like the password reset so that he can get back to work.</p>
+John Flem from the Finance department states that he lost the sticky note with his computer password on it and would like it reset so he can get back to work.</p>
 
 <p><strong>Priority:</strong> High</p>
 
-<p><strong>Environment:</strong> Windows 10 Pro client (WIN10-CLIENT01), user account "jsmith" in the IT OU, domain-joined to corp.local</p>
+<p><strong>Environment:</strong> Windows 10 Pro client (WIN10-CLIENT01), user account "jflem" in the Finance OU, domain-joined to mydomain.local</p>
 
 <p><strong>Troubleshooting Steps:</strong></p>
 <ol>
-  <li>Verified the exact error message on the client. Confirmed it stated that the account was locked out.</li>
-  <li>Confirmed with the user that it was caused by repeated failed login attempts.</li>
-  <li>Opened Active Directory Users and Computers on the DC and located the affected user account.</li>
-  <li>Checked the Account tab and confirmed the "account is locked out" flag was active.</li>
+  <li>Confirmed the user's identity and account name before making any changes, per standard password reset procedure.</li>
+  <li>Opened Active Directory Users and Computers on the DC and located John Flem's account in the Finance OU.</li>
+  <li>Right-clicked the account and selected "Reset Password."</li>
+  <li>Set a temporary password and checked "User must change password at next logon" so John would set his own password on next login.</li>
 </ol>
 
 <p><strong>Root Cause:</strong><br/>
-The user typed their password in correctly but the "caps lock" key was on.</p>
+User forgot his password after losing the physical note it was written on — not a technical failure, a standard access request.</p>
 
 <p><strong>Steps Taken to Resolve:</strong><br/>
 
@@ -44,6 +44,6 @@ Confirmed that Billy Joe was now able to sign in: <br/>
 </p>
 
 <p><strong>What I Learned:</strong><br/>
-In this project I learned how to unlock a user's account after multiple failed password attempts on their part. I also learned how to modify group password policies so that I could simulate this ticket.</p>
+In this project I learned how to reset a user's password along with the importance of having a secure and realiable way to store your passwords.</p>
 
 <p><a href="https://github.com/nickuunn/Active-Directory-Home-Lab/tree/main/tickets">← Back to tickets</a></p>
