@@ -1,7 +1,7 @@
 <h2>Ticket #02: Resetting a User's Password</h2>
 
 <p><strong>Reported Issue:</strong><br/>
-User states they are unable to log into their workstation and receives a message indicating their account is locked.</p>
+John Flem from the Finance department states that he had lost the sticky note that has his computers password on it. He would like the password reset so that he can get back to work.</p>
 
 <p><strong>Priority:</strong> High</p>
 
