@@ -5,31 +5,31 @@ Pete Parker from the HR department is transitioning over to the Finance departme
 
 <p><strong>Priority:</strong> High</p>
 
-<p><strong>Environment:</strong> Windows 10 Pro client (WIN10-CLIENT01), user account "thern" in the Customer Support OU, domain-joined to mydomain.local</p>
+<p><strong>Environment:</strong> Windows 10 Pro client (WIN10-CLIENT01), user account "ppark" in the HR OU, domain-joined to mydomain.local</p>
 
 <p><strong>Troubleshooting Steps:</strong></p>
 <ol>
-  <li>Confirmed with HR/manager that Tracy's last day had passed and offboarding was authorized before taking any action.</li>
-  <li>Opened Active Directory Users and Computers on the DC and located Tracy Hernandez's account in the Customer Support OU.</li>
-  <li>Right-clicked the account and selected "Disable Account" to immediately revoke login access.</li>
-  <li>Moved the disabled account into a dedicated "Disabled Users" OU to keep active-employee OUs clean and simplify future access audits.</li>
+  <li>Confirmed with the requester which OU and security group Pete needed moved to before making any changes.</li>
+  <li>Opened Active Directory Users and Computers on the DC and located Pete Parker's account in the HR OU.</li>
+  <li>Right-clicked the account and selected "Move," relocating Pete from the HR OU to the Finance OU.</li>
+  <li>Removed Pete from the HR security group and added him to the Finance security group under the Member Of tab.</li>
 </ol>
 
 <p><strong>Root Cause:</strong><br/>
-Not a technical issue — a standard offboarding action following an employee's voluntary resignation and completed notice period.</p>
+Not a technical issue — a standard access change resulting from an internal department transfer.</p>
 
 <p><strong>Steps Taken to Resolve:</strong><br/>
 
 <p align="center">
-Located the user "Tracy Hernandez" and disabled the account: <br/>
+Moved Pete Parker from the HR department to the Finance department: <br/>
 <img src="../screenshots/ticket04ss1.png" height="80%" width="80%"/>
 <br />
 <br />
-Moved the disabled account to the "Disabled Users" OU to keep things organized: <br/>
+Removed Pete Parker from the HR group: <br/>
 <img src="../screenshots/ticket04ss2.png" height="80%" width="80%" alt="Resolution step"/>
 <br />
 <br />
-Confirmed that the disabled account was no longer able to sign in: <br/>
+Added Pete Parker to the Finance group: <br/>
 <img src="../screenshots/ticket04ss3.png" height="80%" width="80%"/>
 <br />
 <br />
@@ -40,6 +40,6 @@ Confirmed that the disabled account was no longer able to sign in: <br/>
 </p>
 
 <p><strong>What I Learned:</strong><br/>
-In this project I learned how to disable a user's account. Along with learning how to move the disabled account to a dedicated "Disabled Users" OU in order to keep things neat and abide by the best practices.</p>
+In this project I learned how to create groups and assign users to different groups depending on what was needed.</p>
 
 <p><a href="https://github.com/nickuunn/Active-Directory-Home-Lab/tree/main/tickets">← Back to tickets</a></p>
