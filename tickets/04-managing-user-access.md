@@ -1,7 +1,7 @@
 <h2>Ticket #04: Managing User Access</h2>
 
 <p><strong>Reported Issue:</strong><br/>
-Tracy Hernandez from the Customer Support department had recently put in her two week notice. Two weeks have passed since then so it is now time to disable her account.</p>
+Pete Parker from the HR department is transitioning over to the Finance department. His user access must be changed so that he no longer has access to any files containing sensitive HR information.</p>
 
 <p><strong>Priority:</strong> High</p>
 
@@ -22,15 +22,15 @@ Not a technical issue — a standard offboarding action following an employee's 
 
 <p align="center">
 Located the user "Tracy Hernandez" and disabled the account: <br/>
-<img src="../screenshots/ticket03ss1.png" height="80%" width="80%"/>
+<img src="../screenshots/ticket04ss1.png" height="80%" width="80%"/>
 <br />
 <br />
 Moved the disabled account to the "Disabled Users" OU to keep things organized: <br/>
-<img src="../screenshots/ticket03ss2.png" height="80%" width="80%" alt="Resolution step"/>
+<img src="../screenshots/ticket04ss2.png" height="80%" width="80%" alt="Resolution step"/>
 <br />
 <br />
 Confirmed that the disabled account was no longer able to sign in: <br/>
-<img src="../screenshots/ticket03ss3.png" height="80%" width="80%"/>
+<img src="../screenshots/ticket04ss3.png" height="80%" width="80%"/>
 <br />
 <br />
 
