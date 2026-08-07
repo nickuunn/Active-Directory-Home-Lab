@@ -1,4 +1,4 @@
-<h2>Ticket #04: Managing User Access</h2>
+<h2>Ticket #05: Mapping a Network Drive With Group Policy</h2>
 
 <p><strong>Reported Issue:</strong><br/>
 Pete Parker from the HR department is transitioning over to the Finance department. His user access must be changed so that he no longer has access to any files containing sensitive HR information.</p>
