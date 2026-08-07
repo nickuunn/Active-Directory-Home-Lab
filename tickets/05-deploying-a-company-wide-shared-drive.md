@@ -28,7 +28,7 @@ Linked GPO at the domain root: <br/>
 <br />
 <br />
 The GPO drive map: <br/>
-<img src="../screenshots/ticket05ss2.png" height="80%" width="80%" alt="Resolution step"/>
+<img src="../screenshots/ticket05ss2.png" height="80%" width="80%"/>
 <br />
 <br />
 NTFS permissions on the finance folder: <br/>
@@ -40,7 +40,7 @@ The shared drive is present for the finance user (Pete Parker): <br/>
 <br />
 <br />
 Since Access Based Enumeration is enabled, the finance user is unable to see other department folders: <br/>
-<img src="../screenshots/ticket05ss5.png" height="80%" width="80%" alt="Resolution step"/>
+<img src="../screenshots/ticket05ss5.png" height="80%" width="80%"/>
 <br />
 <br />
 Further proof that the GPO is correctly applied to user: <br/>
