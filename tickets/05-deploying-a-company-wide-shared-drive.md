@@ -53,6 +53,6 @@ Further proof that the GPO is correctly applied to user: <br/>
 </p>
 
 <p><strong>What I Learned:</strong><br/>
-In this project I learned how to create groups and assign users to different groups depending on what was needed.</p>
+Reinforced the distinction between GPO scope (who gets the drive mapped) and NTFS permissions (what they can actually see/access once mapped). These are two independent layers, and confusing them as the same thing is a common mistake.</p>
 
 <p><a href="https://github.com/nickuunn/Active-Directory-Home-Lab/tree/main/tickets">← Back to tickets</a></p>
